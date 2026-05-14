@@ -169,9 +169,8 @@ Cross-browser automation with **Selenium Grid 4** via Docker Compose. Supports C
 
 | Platform | Link |
 |:---:|:---:|
-| 💼 LinkedIn | [linkedin.com/in/neeraj-rathore](https://linkedin.com/in/neeraj-rathore) |
 | 🐙 GitHub | [github.com/btwncodes](https://github.com/btwncodes) |
-| 📧 Email | [neeraj@example.com](mailto:neeraj@example.com) |
+| 📧 Email | [neerajrat23@gmail.com](mailto:neerajrat23@gmail.com) |
 
 <br>
 
