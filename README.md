@@ -25,7 +25,7 @@
 
 > *"Quality is everyone's responsibility — I just automate the proof."*
 
-I'm a **Software Development Engineer in Test** based in **Delhi, India**, with hands-on experience in building scalable test automation frameworks for web applications and APIs. I believe in **shifting quality left**, integrating tests deep into CI/CD pipelines so bugs never reach production.
+I'm a **Software Development Engineer in Test** based in **Hyderabad, India**, with hands-on experience in building scalable test automation frameworks for web applications and APIs. I believe in **shifting quality left**, integrating tests deep into CI/CD pipelines so bugs never reach production.
 
 - 🔭 Currently building a **Playwright + Python POM framework** with Allure reporting
 - 🌱 Deepening expertise in **performance testing** with k6 and Gatling
