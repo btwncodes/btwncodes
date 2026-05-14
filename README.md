@@ -152,7 +152,7 @@ Cross-browser automation with **Selenium Grid 4** via Docker Compose. Supports C
 ╠═══════════════════════════╦══════════════════════════════════════════╣
 ║  UI AUTOMATION            ║  Playwright · Selenium · POM · BDD       ║
 ║  API TESTING              ║  REST · Requests · Postman · JSONSchema  ║
-║  PERFORMANCE TESTING      ║  JMeter · Basics of k6 · Load Analysis  ║
+║  PERFORMANCE TESTING      ║  JMeter · Basics of k6 · Load Analysis   ║
 ║  CI/CD INTEGRATION        ║  Jenkins · GitHub Actions · Docker       ║
 ║  FRAMEWORK DESIGN         ║  Data-Driven · Keyword · Hybrid          ║
 ║  TEST STRATEGY            ║  RTM · Shift-Left · Risk-Based Testing   ║
