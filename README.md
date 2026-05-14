@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=🐍+Python+%7C+🎭+Playwright+%7C+🔵+Selenium+%7C+🔗+REST+API;⚙️+Jenkins+%7C+GitHub+Actions+%7C+CI%2FCD+Pipelines;📊+Performance+Testing+%7C+JMeter+%7C+k6;🏗️+Building+Automation+Frameworks+That+Scale;📍+Delhi%2C+India+—+Open+to+Remote+Opportunities)](https://github.com/btwncodes)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=🐍+Python+%7C+🎭+Playwright+%7C+🔵+Selenium+%7C+🔗+REST+API;⚙️+Jenkins+%7C+GitHub+Actions+%7C+CI%2FCD+Pipelines;📊+Performance+Testing+%7C+JMeter+%7C+k6;🏗️+Building+Automation+Frameworks+That+Scale;📍+Hyderabad%2C+India+—+Open+to+Remote+Opportunities)](https://github.com/btwncodes)
 
 <br>
 
